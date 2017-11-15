@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magnet</string>
+    <string name="copy_to_magnet">Copy to Magnet</string>
+    <string name="copied">has been copied.</string>
+    <string name="error_string">Please select the correct text.</string>
+</resources>
